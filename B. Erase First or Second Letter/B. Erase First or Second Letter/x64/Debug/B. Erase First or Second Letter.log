@@ -1,0 +1,18 @@
+﻿  Source.cpp
+D:\User\C++ program\B. Erase First or Second Letter\B. Erase First or Second Letter\Source.cpp(5,7): error C2143: syntax error: missing ';' before '<'
+D:\User\C++ program\B. Erase First or Second Letter\B. Erase First or Second Letter\Source.cpp(5,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\User\C++ program\B. Erase First or Second Letter\B. Erase First or Second Letter\Source.cpp(5,7): error C2059: syntax error: '<'
+D:\User\C++ program\B. Erase First or Second Letter\B. Erase First or Second Letter\Source.cpp(6,7): error C2143: syntax error: missing ';' before '<'
+D:\User\C++ program\B. Erase First or Second Letter\B. Erase First or Second Letter\Source.cpp(6,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\User\C++ program\B. Erase First or Second Letter\B. Erase First or Second Letter\Source.cpp(6,1): error C2086: 'int vector': redefinition
+  D:\User\C++ program\B. Erase First or Second Letter\B. Erase First or Second Letter\Source.cpp(5,1):
+  see declaration of 'vector'
+  
+D:\User\C++ program\B. Erase First or Second Letter\B. Erase First or Second Letter\Source.cpp(6,7): error C2059: syntax error: '<'
+D:\User\C++ program\B. Erase First or Second Letter\B. Erase First or Second Letter\Source.cpp(12,3): error C2065: 'cin': undeclared identifier
+D:\User\C++ program\B. Erase First or Second Letter\B. Erase First or Second Letter\Source.cpp(13,3): error C2065: 'c': undeclared identifier
+D:\User\C++ program\B. Erase First or Second Letter\B. Erase First or Second Letter\Source.cpp(22,15): error C2065: 'x': undeclared identifier
+D:\User\C++ program\B. Erase First or Second Letter\B. Erase First or Second Letter\Source.cpp(23,3): error C2065: 'x': undeclared identifier
+D:\User\C++ program\B. Erase First or Second Letter\B. Erase First or Second Letter\Source.cpp(23,11): error C2065: 'x': undeclared identifier
+D:\User\C++ program\B. Erase First or Second Letter\B. Erase First or Second Letter\Source.cpp(25,3): error C2065: 'x': undeclared identifier
+D:\User\C++ program\B. Erase First or Second Letter\B. Erase First or Second Letter\Source.cpp(25,12): error C2065: 'x': undeclared identifier

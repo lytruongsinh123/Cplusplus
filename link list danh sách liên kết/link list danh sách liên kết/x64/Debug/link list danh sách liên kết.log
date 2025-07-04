@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  Source1.cpp
+D:\User\C++ program\link list danh sách liên kết\link list danh sách liên kết\Source1.cpp(173,8): warning C4101: 'x': unreferenced local variable
+  Generating Code...
+Source1.obj : error LNK2005: main already defined in Source.obj
+D:\User\C++ program\link list danh sách liên kết\x64\Debug\link list danh sách liên kết.exe : fatal error LNK1169: one or more multiply defined symbols found

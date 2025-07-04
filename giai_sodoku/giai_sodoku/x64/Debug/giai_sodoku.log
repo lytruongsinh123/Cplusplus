@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\C++ program\giai_sodoku\giai_sodoku\Source.cpp(93,1): warning C4715: 'backtrack': not all control paths return a value
+  giai_sodoku.vcxproj -> C:\C++ program\giai_sodoku\x64\Debug\giai_sodoku.exe

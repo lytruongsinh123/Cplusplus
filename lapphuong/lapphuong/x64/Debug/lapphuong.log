@@ -1,0 +1,18 @@
+﻿  Source.cpp
+D:\C++ program\lapphuong\lapphuong\Source.cpp(33,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\C++ program\lapphuong\lapphuong\Source.cpp(42,51): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\C++ program\lapphuong\lapphuong\Source.cpp(47,69): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\C++ program\lapphuong\lapphuong\Source.cpp(52,54): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\C++ program\lapphuong\lapphuong\Source.cpp(56,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\C++ program\lapphuong\lapphuong\Source.cpp(56,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\C++ program\lapphuong\lapphuong\Source.cpp(56,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\C++ program\lapphuong\lapphuong\Source.cpp(57,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\C++ program\lapphuong\lapphuong\Source.cpp(57,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\C++ program\lapphuong\lapphuong\Source.cpp(57,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\C++ program\lapphuong\lapphuong\Source.cpp(58,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\C++ program\lapphuong\lapphuong\Source.cpp(58,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\C++ program\lapphuong\lapphuong\Source.cpp(58,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\C++ program\lapphuong\lapphuong\Source.cpp(126,18): warning C4305: '+=': truncation from 'double' to 'float'
+D:\C++ program\lapphuong\lapphuong\Source.cpp(127,18): warning C4305: '+=': truncation from 'double' to 'float'
+D:\C++ program\lapphuong\lapphuong\Source.cpp(128,18): warning C4305: '+=': truncation from 'double' to 'float'
+  lapphuong.vcxproj -> D:\C++ program\lapphuong\x64\Debug\lapphuong.exe

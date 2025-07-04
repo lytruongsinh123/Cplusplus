@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\C++ program\dominaté subarray\dominaté subarray\Source.cpp(15,14): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+  dominaté subarray.vcxproj -> D:\C++ program\dominaté subarray\x64\Debug\dominaté subarray.exe

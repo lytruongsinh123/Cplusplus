@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\C++ program\Mã hóa xâu\Mã hóa xâu\Source.cpp(14,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\C++ program\Mã hóa xâu\Mã hóa xâu\Source.cpp(50,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Mã hóa xâu.vcxproj -> D:\C++ program\Mã hóa xâu\x64\Debug\Mã hóa xâu.exe

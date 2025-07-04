@@ -1,0 +1,9 @@
+﻿  Source.cpp
+D:\C++ program\đảo ngược chuỗi\đảo ngược chuỗi\Source.cpp(6,11): error C2131: expression did not evaluate to a constant
+  D:\C++ program\đảo ngược chuỗi\đảo ngược chuỗi\Source.cpp(6,11):
+  failure was caused by a read of a variable outside its lifetime
+  D:\C++ program\đảo ngược chuỗi\đảo ngược chuỗi\Source.cpp(6,11):
+  see usage of 'n'
+  
+D:\C++ program\đảo ngược chuỗi\đảo ngược chuỗi\Source.cpp(8,13): warning C4552: '>>': result of expression not used
+D:\C++ program\đảo ngược chuỗi\đảo ngược chuỗi\Source.cpp(14,22): warning C4552: '<<': result of expression not used

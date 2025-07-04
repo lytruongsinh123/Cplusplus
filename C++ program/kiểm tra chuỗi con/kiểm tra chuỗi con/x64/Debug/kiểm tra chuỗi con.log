@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\C++ program\kiểm tra chuỗi con\kiểm tra chuỗi con\Source.cpp(35,11): warning C4566: character represented by universal-character-name '\u1ED7' cannot be represented in the current code page (1252)
+D:\C++ program\kiểm tra chuỗi con\kiểm tra chuỗi con\Source.cpp(39,11): warning C4566: character represented by universal-character-name '\u1ED7' cannot be represented in the current code page (1252)
+  kiểm tra chuỗi con.vcxproj -> D:\C++ program\kiểm tra chuỗi con\x64\Debug\kiểm tra chuỗi con.exe

@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\Admin\Desktop\C++ program\hoanvi\hoanvi\Source.cpp(9,11): error C2131: expression did not evaluate to a constant
+  C:\Users\Admin\Desktop\C++ program\hoanvi\hoanvi\Source.cpp(9,11):
+  failure was caused by a read of a variable outside its lifetime
+  C:\Users\Admin\Desktop\C++ program\hoanvi\hoanvi\Source.cpp(9,11):
+  see usage of 'n'
+  
+C:\Users\Admin\Desktop\C++ program\hoanvi\hoanvi\Source.cpp(11,13): warning C4552: '>>': result of expression not used
+C:\Users\Admin\Desktop\C++ program\hoanvi\hoanvi\Source.cpp(18,18): error C3863: array type 'int [n]' is not assignable
+C:\Users\Admin\Desktop\C++ program\hoanvi\hoanvi\Source.cpp(19,18): error C3863: array type 'int [n]' is not assignable
+C:\Users\Admin\Desktop\C++ program\hoanvi\hoanvi\Source.cpp(23,30): warning C4552: '<<': result of expression not used

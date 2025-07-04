@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\C++ program\giải hệ phương trình\giải hệ phương trình\Source.cpp(12,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  giải hệ phương trình.vcxproj -> D:\C++ program\giải hệ phương trình\x64\Debug\giải hệ phương trình.exe

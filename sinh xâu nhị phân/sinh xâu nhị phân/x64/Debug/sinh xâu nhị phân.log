@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\C++ program\sinh xâu nhị phân\sinh xâu nhị phân\Source.cpp(6,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\C++ program\sinh xâu nhị phân\sinh xâu nhị phân\Source.cpp(15,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  sinh xâu nhị phân.vcxproj -> D:\C++ program\sinh xâu nhị phân\x64\Debug\sinh xâu nhị phân.exe

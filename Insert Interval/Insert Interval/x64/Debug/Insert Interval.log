@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\C++ program\Insert Interval\Insert Interval\Source.cpp(42): warning C4715: 'solution::insertIntervals1': not all control paths return a value
+D:\C++ program\Insert Interval\Insert Interval\Source.cpp(62): warning C4715: 'solution::insertIntervals2': not all control paths return a value
+  Insert Interval.vcxproj -> D:\C++ program\Insert Interval\x64\Debug\Insert Interval.exe

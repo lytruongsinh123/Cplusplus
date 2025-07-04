@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\C++ program\trích chuỗi con\trích chuỗi con\Source.cpp(8,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  trích chuỗi con.vcxproj -> D:\C++ program\trích chuỗi con\x64\Debug\trích chuỗi con.exe

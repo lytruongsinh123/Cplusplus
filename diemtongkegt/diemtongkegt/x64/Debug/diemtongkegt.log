@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\C++ program\diemtongkegt\diemtongkegt\Source.cpp(8,9): warning C4101: 'diemTongKet': unreferenced local variable
+  diemtongkegt.vcxproj -> D:\C++ program\diemtongkegt\x64\Debug\diemtongkegt.exe
